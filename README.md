@@ -30,7 +30,7 @@
 
 ```bash
 git clone https://github.com/1dust134/1dust.git
-cd The-second-project
+cd 1dust
 ```
 
 ### 2. 安装依赖
